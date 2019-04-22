@@ -14,7 +14,7 @@ def filter(hash)
   end
   return filtered_hash
 
-  puts filtered_hash
+
 end
 
 puts filter(ventas)
